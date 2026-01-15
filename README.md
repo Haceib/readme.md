@@ -1,6 +1,6 @@
 **Hi there, I'm Muhammad Haseeb 👋**
 
-Dynamic and detail-oriented Software Engineer with a passion for crafting high-quality, scalable, and efficient software solutions. My expertise lies in React.js, Next.js, JavaScript, and TypeScript, with hands-on experience in Docker, Tailwind CSS, Ant Design.
+Dynamic and detail-oriented Software Engineer with a strong passion for designing and developing high-quality, scalable, and efficient software solutions. I specialize in building modern, user-centric web applications using React.js, Next.js, JavaScript, and TypeScript. I have hands-on experience creating responsive interfaces with Tailwind CSS and Ant Design, ensuring clean UI architecture and consistent design systems. Additionally, I am experienced in component-based development, state management, performance optimization, and maintaining clean, reusable codebases. I thrive in collaborative environments and continuously strive to learn new technologies to deliver reliable and impactful digital products. I have a strong focus on writing maintainable code, following best practices, and improving application performance. I enjoy solving complex problems, translating requirements into functional solutions, and contributing effectively within cross-functional teams. My goal is to continuously grow as a developer while building products that deliver real value to users.
 
 🚀 About Me
 
