@@ -1,4 +1,4 @@
-Hi there, I'm Muhammad Haseeb 👋
+**Hi there, I'm Muhammad Haseeb 👋**
 
 Dynamic and detail-oriented Software Engineer with a passion for crafting high-quality, scalable, and efficient software solutions. My expertise lies in React.js, Next.js, JavaScript, and TypeScript, with hands-on experience in Docker, Tailwind CSS, Ant Design.
 
